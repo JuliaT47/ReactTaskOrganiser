@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTaskOrginiser/static/css/main.b25e8066.css",
+    "main.js": "/ReactTaskOrginiser/static/js/main.a610e689.js",
+    "index.html": "/ReactTaskOrginiser/index.html",
+    "main.b25e8066.css.map": "/ReactTaskOrginiser/static/css/main.b25e8066.css.map",
+    "main.a610e689.js.map": "/ReactTaskOrginiser/static/js/main.a610e689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25e8066.css",
+    "static/js/main.a610e689.js"
+  ]
+}
